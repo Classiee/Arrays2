@@ -28,6 +28,3 @@ function addItem() {
             <button onclick="addItem()" id="button">Add to Cart</button>
             <div id="showArray"></div>
             `
-            
-        
-        
